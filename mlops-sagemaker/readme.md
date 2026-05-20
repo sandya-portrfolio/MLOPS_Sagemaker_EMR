@@ -161,7 +161,7 @@ python inference.py
 * Use Docker + Kubernetes for advanced deployment
 ---
 
-## 🧠 Learnings
+## key points
 * Hands-on experience with AWS SageMaker
 * Understanding of MLOps workflow
 * Cloud-based model deployment
@@ -169,7 +169,7 @@ python inference.py
 
 ---
 
-## 🧹 Cleanup Note
+##  Cleanup Note
 Always delete active endpoints after use to avoid unnecessary AWS charges:
 
 ```
